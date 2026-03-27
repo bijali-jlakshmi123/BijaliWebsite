@@ -80,7 +80,7 @@ const data = [
         title: "Educational Software",
         source:"https://github.com/bijali-jlakshmi123/",
         external:"https://github.com/bijali-jlakshmi123/",
-        description: "This is the responsive webpage for Gtec Computer Education",
+        description: "This is the responsive webpage for Computer Education School",
         tech:[
             {stack:"HTML"},
             {stack:"CSS"},
